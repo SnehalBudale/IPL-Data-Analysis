@@ -99,5 +99,3 @@ This project demonstrates how SQL can be used to analyze large datasets and extr
 ---
 
 
-If you want next level:
-I can make this **more ATS + recruiter attractive with badges, visuals, and screenshots** 🚀
